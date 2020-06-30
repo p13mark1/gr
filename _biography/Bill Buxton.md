@@ -22,6 +22,6 @@ gallery:
     caption: "Η Ομάδα Ειδικού Ενδιαφέροντος για την Αλληλεπίδραση Υπολογιστών-Ανθρώπων ( SIGCHI ) είναι μία από τις ομάδες ειδικών ενδιαφερόντων του Συλλόγου Μηχανών Πληροφορικής που εστιάζεται στις αλληλεπιδράσεις ανθρώπου-υπολογιστή (HCI)"
 ---
 
-{% include_relative Buxton.md %}
+{% https://github.com/p13mark1/gr/blob/master/_biography/Buxton.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Bill Buxton" %}
+{% https://github.com/p13mark1/gr/blob/master/images/800px-Bill_Buxton.jpg %}
